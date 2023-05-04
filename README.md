@@ -4,3 +4,6 @@
 
 ## Implementar um verificador de hashs automático para ficheiros txt
 
+### Algoritmo para a criação do verificador de hash
+
+![alt text](~/img/Diagrama sem nome.drawio.png)
