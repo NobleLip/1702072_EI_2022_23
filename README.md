@@ -6,4 +6,5 @@
 
 ### Algoritmo para a criação do verificador de hash
 
-![alt text](~/img/Diagrama sem nome.drawio.png)
+![Algoritmo](/img/Alg.png)
+
