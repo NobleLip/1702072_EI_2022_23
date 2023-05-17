@@ -8,3 +8,11 @@
 
 ![Algoritmo](/img/Alg.png)
 
+##Inputs e Resultados
+
+![Resultados](/img/Imagem1.png)
+![Resultados](/img/Imagem2.png)
+![Resultados](/img/Imagem3.png)
+![Resultados](/img/Imagem4.png)
+![Resultados](/img/Imagem5.png)
+![Resultados](/img/Imagem6.png)
