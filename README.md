@@ -1,7 +1,7 @@
 # 1702072_EI_2022_23
 
 ## Relatório do Trabalho prático Sistemas Distribuídos
-![Algoritmo](/Relatorio.docx)
+
 
 
 ## Implementar um verificador de hashs automático para ficheiros txt
