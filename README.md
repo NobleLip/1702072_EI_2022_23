@@ -8,7 +8,7 @@
 
 ![Algoritmo](/img/Alg.png)
 
-##Inputs e Resultados
+## Inputs e Resultados
 
 ![Resultados](/img/Imagem1.png)
 ![Resultados](/img/Imagem2.png)
